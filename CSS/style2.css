@@ -856,7 +856,7 @@ h5 {
 }
 
 .preloader img{
-    animation: spin 3s ease;
+    animation: spin 3s ease infinite;
     width: 150px;
     animation: spin 3s ease;
   transition: all;
